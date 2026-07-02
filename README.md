@@ -108,6 +108,19 @@ curl http://localhost:8080/health
 
 **Model aliases**: `gpt-4o` → `deepseek-v4-flash`, `gpt-4` → `deepseek-v4-flash`, `o1` → `deepseek-reasoner`, etc.
 
+## Usage Policy
+
+This project is intended **for research and educational purposes only**.
+
+By using this software, you agree to:
+- Use it solely for personal study, research, and learning about AI/API integration
+- **Not** use it for commercial purposes, production services, or any revenue-generating activities
+- **Not** abuse or spam the underlying services
+- Comply with all applicable terms of service of DeepSeek and any other integrated platforms
+- Respect rate limits and fair usage of the underlying platforms
+
+The authors are not responsible for any misuse of this software. Use at your own risk.
+
 ## Project Structure
 
 ```
